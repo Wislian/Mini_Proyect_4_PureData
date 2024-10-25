@@ -20,7 +20,10 @@ In the development of this project, a total of 22 buttons, 24 toggles, and 4 sli
 
 ## Conclusion:
 In conclusion, we have done a good job addressing the requirements needed to create the music effectively. We relied on YouTube videos to manage the PureData application with the OSC Controller correctly, ensuring the successful development of the project.
-
+### Link to gameplay
+[link to youtube](https://youtu.be/MKYP1dGkON4)
+### Link to gameplay
+[link to repository](https://youtu.be/MKYP1dGkON4)
 ## References:
 - Youtube
 - PureData
