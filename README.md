@@ -23,7 +23,7 @@ In conclusion, we have done a good job addressing the requirements needed to cre
 ### Link to gameplay
 [link to youtube](https://youtu.be/MKYP1dGkON4)
 ### Link to repository
-[Mini_Proyect_4_PureData]([https://youtu.be/MKYP1dGkON4](https://github.com/Wislian/Mini_Proyect_4_PureData.git)
+[Mini_Proyect_4_PureData](https://github.com/Wislian/Mini_Proyect_4_PureData.git)
 ## References:
 - Youtube
 - PureData
